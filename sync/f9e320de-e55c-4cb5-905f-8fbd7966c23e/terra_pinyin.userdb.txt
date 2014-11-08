@@ -1,0 +1,26 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	10
+#@/user_id	f9e320de-e55c-4cb5-905f-8fbd7966c23e
+bu2 hui4 	不會	c=0 d=0.1 t=5
+bu4 	不	c=0 d=0.1 t=9
+bu4 hao3 yi4 si1 ne5 	不好意思呢	c=1 d=1 t=10
+gai1 	該	c=0 d=0.1 t=5
+gai1 bu2 hui4 	該不會	c=1 d=1 t=6
+hai1 yi1 	嗨一	c=1 d=1 t=4
+hao3 yi4 	好意	c=0 d=0.1 t=9
+le5 	了	c=0 d=0.1 t=6
+ne5 	呢	c=0 d=0.1 t=9
+shu1 ru4 fa3 	輸入法	c=1 d=1 t=8
+shu3 xu1 guan3 	鼠鬚管	c=1 d=1 t=1
+shu4 zi4 	數字	c=0 d=0.1 t=1
+shu4 zi4 ying1 wen2 	數字英文	c=1 d=1 t=2
+si1 	思	c=0 d=0.1 t=9
+xi3 zao3 	洗澡	c=0 d=0.1 t=6
+xuan3 dan1 	選單	c=1 d=1 t=3
+yao4 qu4 	要去	c=0 d=0.1 t=6
+yao4 qu4 xi3 zao3 le5 	要去洗澡了	c=1 d=1 t=7
+ying1 wen2 	英文	c=0 d=0.1 t=1
+zu1 na5 	租哪	c=2 d=1.9802 t=9
